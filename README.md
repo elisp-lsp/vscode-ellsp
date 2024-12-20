@@ -14,7 +14,7 @@ Install the [Ellsp][] extension directly from the [VSCode Marketplace][].
 
 <img alt="installation" src="./etc/installation.png"/>
 
-Then follow the instructions [here](https://github.com/jcs090218/ellsp#-installation)
+Then follow the instructions [here](https://github.com/elisp-lsp/ellsp#-installation)
 to install the language server! 🎉
 
 ## 📇 Commands
