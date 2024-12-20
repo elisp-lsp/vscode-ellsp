@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jcs090218/ellsp"
+    "url": "https://github.com/elisp-lsp/vscode-ellsp"
   },
   "publisher": "jcs090218",
   "keywords": [
