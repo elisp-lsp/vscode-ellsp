@@ -6,6 +6,8 @@
 # vscode-ellsp
 > Emacs Lisp languages support for Visual Studio Code
 
+[![CI VSCode](https://github.com/elisp-lsp/vscode-ellsp/actions/workflows/test-vscode.yml/badge.svg)](https://github.com/elisp-lsp/vscode-ellsp/actions/workflows/test-vscode.yml)
+
 ## 💾 Installation
 
 Install the [Ellsp][] extension directly from the [VSCode Marketplace][].
