@@ -26,5 +26,6 @@ to install the language server! 🎉
 
 
 <!-- Links -->
+
 [Ellsp]: https://marketplace.visualstudio.com/items?itemName=jcs090218.Ellsp
 [VSCode Marketplace]: https://marketplace.visualstudio.com/vscode
