@@ -23,7 +23,6 @@ jobs:
     - uses: actions/checkout@v4
 
     - name: Install dependencies
-      working-directory: vscode
       run: npm install
 
     - name: Build the application
