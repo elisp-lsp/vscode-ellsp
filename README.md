@@ -1,4 +1,4 @@
-[![Release](https://img.shields.io/github/tag/jcs-elpa/ellsp.svg?label=release&logo=github)](https://github.com/jcs-elpa/ellsp/releases/latest)
+[![Release](https://img.shields.io/github/tag/elisp-lsp/vscode-ellsp.svg?label=release&logo=github)](https://github.com/elisp-lsp/vscode-ellsp/releases/latest)
 [![VSCode Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/jcs090218.Ellsp?label=VSCode%20Marketplace&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=jcs090218.Ellsp)
 [![VSCode Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/jcs090218.Ellsp)](https://marketplace.visualstudio.com/items?itemName=jcs090218.Ellsp)
 [![VSCode Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/jcs090218.Ellsp)](https://marketplace.visualstudio.com/items?itemName=jcs090218.Ellsp)
