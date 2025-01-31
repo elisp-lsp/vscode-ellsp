@@ -22,8 +22,8 @@ to install the language server! 🎉
 
 | Commands      | Description                        |
 |:--------------|:-----------------------------------|
-| `ellsp.start` | Start the `shader langauge server` |
-| `ellsp.stop`  | Stop the `shader langauge server`  |
+| `ellsp.start` | Start the `ellsp langauge server`  |
+| `ellsp.stop`  | Stop the `ellsp langauge server`   |
 
 ## ⚜️ License
 
