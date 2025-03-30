@@ -10,7 +10,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 * N/A
 
 ## 0.1.2
-> Released Nov 18, 2023
+> Released Jan 08, 2025
 
 * fix: VSCode marketplace image link with absolute path
 
