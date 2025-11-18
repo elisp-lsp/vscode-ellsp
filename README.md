@@ -5,7 +5,7 @@
 [![VSCode Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/jcs090218.Ellsp)](https://marketplace.visualstudio.com/items?itemName=jcs090218.Ellsp)
 [![VSCode Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/jcs090218.Ellsp)](https://marketplace.visualstudio.com/items?itemName=jcs090218.Ellsp)
 
-![Open VSX Version](https://img.shields.io/open-vsx/v/jcs090218/Ellsp)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/jcs090218/Ellsp)](https://open-vsx.org/extension/jcs090218/Ellsp)
 
 # vscode-ellsp
 > Emacs Lisp languages support for Visual Studio Code
