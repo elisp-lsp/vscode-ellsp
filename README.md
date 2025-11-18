@@ -1,8 +1,11 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Release](https://img.shields.io/github/release/elisp-lsp/vscode-ellsp.svg?logo=github)](https://github.com/elisp-lsp/vscode-ellsp/releases/latest)
+
 [![VSCode Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/jcs090218.Ellsp?label=VSCode%20Marketplace&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=jcs090218.Ellsp)
 [![VSCode Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/jcs090218.Ellsp)](https://marketplace.visualstudio.com/items?itemName=jcs090218.Ellsp)
 [![VSCode Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/jcs090218.Ellsp)](https://marketplace.visualstudio.com/items?itemName=jcs090218.Ellsp)
+
+![Open VSX Version](https://img.shields.io/open-vsx/v/jcs090218/Ellsp)
 
 # vscode-ellsp
 > Emacs Lisp languages support for Visual Studio Code
