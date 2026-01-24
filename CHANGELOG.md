@@ -4,10 +4,16 @@ All notable changes to the "vscode-shader" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## 0.1.3 (Unreleased)
+
+## 0.1.4 (Unreleased)
 > Released N/A
 
 * N/A
+
+## 0.1.3
+> Released Jan 25, 2026
+
+* feat: fix executable name ([`8ce6245`](../../commit/8ce6245094794f228a61f24da833ed79dd686227))
 
 ## 0.1.2
 > Released Jan 08, 2025
